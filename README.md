@@ -18,6 +18,9 @@ Now, I teach JS and PHP, to share my knowledge, but I still continue to develop 
 
 ### Projects in PHP
 
+*[Models Kit Database](https://github.com/GuillaumeCregut/ModelsKitDatabasePhp)
+This project is the same as in JS, but recoded in full PHP.
+
 * [Gestimmo](https://github.com/GuillaumeCregut/gestimmo)
 This projet was made for a friend to help him in his real estate agent to manage his clients.
 
