@@ -18,6 +18,9 @@ Now, I teach JS and PHP, to share my knowledge, but I still continue to develop 
 
 ### Projects in PHP
 
+*[mvcTemplate](https://github.com/GuillaumeCregut/mvcTemplate)
+This is a pedagogical project to make a PHP framework from nearly scratch (for the moment, only tests, dev template and linters are from extra parts). It works close as symfony, but is really simplified.
+
 * [Models Kit Database](https://github.com/GuillaumeCregut/ModelsKitDatabasePhp)
 This project is the same as in JS, but recoded in full PHP.
 
