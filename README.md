@@ -65,3 +65,5 @@ Project from a hackathon, this is a FPS using unity.
 A not finished software in arduino to manage a glass house.
 
 **You should sometimes find my work with Editiel98, which is my _brand name_**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeCregut&layout=compact)](https://github.com/GuillaumeCregut/github-readme-stats)
