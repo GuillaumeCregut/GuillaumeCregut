@@ -18,6 +18,9 @@ Now, I teach JS and PHP, to share my knowledge, but I still continue to develop 
 
 ### Projects in PHP
 
+* [SmallAPI Server](https://github.com/GuillaumeCregut/smallApiServer)
+The aims of this project is to provide a leightweight with no dependancies REST API server. It integrate debugging tools, console for easiest manipulations.
+
 * [mvcTemplate](https://github.com/GuillaumeCregut/mvcTemplate)
 This is a pedagogical project to make a PHP framework from nearly scratch (for the moment, only tests, dev template and linters are from extra parts). It works close as symfony, but is really simplified.
 
