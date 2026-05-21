@@ -36,7 +36,7 @@ A complete system, created for friends to help in production of webzine (resourc
 * [cocktail](https://github.com/GuillaumeCregut/cocktail)
 A now old application to create cocktails.
 
-* [Hive Manager](https://github.com/GuillaumeCregut/hive_manager)
+* [Hive Manager](https://github.com/GuillaumeCregut/HappyCulteur)
 An application to manage hive for single user or group of beekeepers.
 
 * [camera collection](https://github.com/GuillaumeCregut/camera_collection)
